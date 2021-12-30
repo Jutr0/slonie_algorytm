@@ -1,0 +1,19 @@
+{
+  "name": "impicoderecrutation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ",
+    "start": "tsc index && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
